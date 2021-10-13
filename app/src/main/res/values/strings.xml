@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SAHO_3</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyCUF4IOaMKIk8xSBdeDKd2Rc-bt0dAsXC0</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Petrol Station</string>
+    <string name="nav_header_subtitle">Never Travel Much For Fuel</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_location">Station Locations</string>
+    <string name="menu_price">Fuel Price</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_search">Search</string>
+
+    <string name="effective_date">Effective Date: </string>
+    <string name="petrol_price">Petrol (In NPR): </string>
+    <string name="diesel_price">Diesel (In NPR):</string>
+    <string name="kerosene_price">Kerosene (In NPR):</string>
+    <string name="lpg_price">LPG (In NPR):</string>
+
+
+    <!--    Styling    -->
+    <string name="styled_map_demo_label">Styled Map</string>
+    <string name="style_label_retro">Retro</string>
+    <string name="style_label_night">Night</string>
+    <string name="style_label_grayscale">Grayscale</string>
+    <string name="style_label_no_pois_no_transit">No POIs or transit</string>
+    <string name="style_label_default">Default</string>
+    <string name="style_choose">Choose style</string>
+    <string name="style_set_to">Style set to: %1$s</string>
+
+    <!-- For About Us Page -->
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+
+</resources>

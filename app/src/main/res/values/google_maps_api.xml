@@ -1,0 +1,41 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=12:92:8D:7A:A8:98:C3:55:91:CE:F8:2B:5F:E9:F5:CC:4D:CF:17:96%3Bcom.example.petrolstation
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    12:92:8D:7A:A8:98:C3:55:91:CE:F8:2B:5F:E9:F5:CC:4D:CF:17:96
+
+    SHA-1 certificate fingerprint:
+    12:92:8D:7A:A8:98:C3:55:91:CE:F8:2B:5F:E9:F5:CC:4D:CF:17:96
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+
+    <!--google console petrol station-->
+    <!--for google petrol station by me -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAiKSQQt83C7rUB8FYMTyULUzasBzgiDZE</string>
+    <string name="browser_key">AIzaSyBsJyAKr9zTWqlAiLwdmI-u7vIqnu-_hg0</string>
+
+    <!--for google petrol station -->
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDPotj9vUALqbNMd2fMM0WlAYAmj75aDO4</string>-->
+    <!--<string name="browser_key">AIzaSyCUF4IOaMKIk8xSBdeDKd2Rc-bt0dAsXC0</string>-->
+
+    <!--for gas station in console-->
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAAocO-vVN990UZAny_-Ju_WJPIUGQHuBo</string>-->
+    <!--<string name="browser_key">AIzaSyBRK-YISY8DreApzvLulI4MpC3BR1yKb-4</string>-->
+
+    <!--USING FUEL FINDER-->
+
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCAMkH2fOR-Cz7Ohhe1UAbima9oLdwahiI</string>-->
+    <!--<string name="browser_key">AIzaSyCBJyZvZMqgtvSHNSWqu9oIhBg7xNj4GgU</string>-->
+</resources>
